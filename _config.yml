@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:            Michael Teti
 tagline:          'A Jekyll theme'
-description:      'Understanding how humans and machine perceive the world.'
+description:      'Understanding how biological and artificial systems perceive the world.'
 url:              http://michaelteti.github.io
 baseurl:          /
 
