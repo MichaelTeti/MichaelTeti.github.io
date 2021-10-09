@@ -14,13 +14,13 @@ url:              http://michaelteti.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           
+  url:            
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/MichaelTeti
+github:           https://github.com/MichaelTeti
+  repo:           
